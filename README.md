@@ -8,6 +8,5 @@ I'm a *student* in the [Informatics Department at UIN Sunan Kalijaga Yogyakarta]
 <p align="left">
 <a href="https://github.com/alfacodefr">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alfacodefr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alfacodefr&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
